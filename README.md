@@ -2,6 +2,12 @@
 
 Planets in Solar system
 
+##Screenshots
+
+![Home page]("Home.png")
+
+![Detail Page]("Detail.png")
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
