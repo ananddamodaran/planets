@@ -4,7 +4,7 @@ Planets in Solar system
 
 ##Screenshots
 
-![Home page](Home.png =100x200) | ![Detail Page](Detail.png)
+![Home page](Home.png|width=100x200)  ![Detail Page](Detail.png)
 
 ## Getting Started
 
