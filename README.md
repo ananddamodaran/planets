@@ -4,7 +4,9 @@ Planets in Solar system
 
 ##Screenshots
 
-![Home page](Home.png|width=100x200)  ![Detail Page](Detail.png)
+<a href="https://raw.githubusercontent.com/ananddamodaran/planets/master/Home.png"><img src="https://raw.githubusercontent.com/ananddamodaran/planets/master/Home.png" height="240" width="120" ></a>
+<a href="https://raw.githubusercontent.com/ananddamodaran/planets/master/Detail.png"><img src="https://raw.githubusercontent.com/ananddamodaran/planets/master/Detail.png" height="240" width="120" ></a>
+
 
 ## Getting Started
 
