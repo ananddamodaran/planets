@@ -4,9 +4,9 @@ Planets in Solar system
 
 ##Screenshots
 
-![Home page]("Home.png")
+![Home page](Home.png)
 
-![Detail Page]("Detail.png")
+![Detail Page](Detail.png)
 
 ## Getting Started
 
